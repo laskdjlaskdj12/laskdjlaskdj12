@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm laskdj, a Developer 🚀 from South Korea
+## 안녕하세요 저는 라스크 에요, 대한민국의 🚀 개발자 입니다!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
