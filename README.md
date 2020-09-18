@@ -1,5 +1,5 @@
 <!-- Your title -->
-## 안녕하세요 저는 라스크 에요, 대한민국의 🚀 개발자 입니다!
+## 안녕하세요 라스크 에요, 저는 🚀 개발자 입니다!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
