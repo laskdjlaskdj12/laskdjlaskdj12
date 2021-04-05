@@ -27,7 +27,7 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 지금은 Keras로 이미지 영상처리와 회귀분석에 관심이 있어요!
 - ⚡️ 웃긴 사실: 사실 했던것들이 많아서 많이는 못썻어요;
 - 📫 혹시 연락 주고 싶으시다면: laskdjlaskdj12@gmail.com 으로 연락 주세요
-- 💬 그리고 현재 직장을 찾고있어요! 제 [이력서](https://github.com/laskdjlaskdj12/laskdjlaskdj12/blob/master/이력서.pdf) 가 마음에 드셨다면 이메일로 연락주세요!
+- 💬 그리고 현재 직장을 찾고있어요! 제 [이력서](https://github.com/laskdjlaskdj12/laskdjlaskdj12/blob/master/%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A5.pdf) 가 마음에 드셨다면 이메일로 연락주세요!
 
 **언어 및 프레임워크:** 
 
