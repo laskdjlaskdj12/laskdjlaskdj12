@@ -22,10 +22,10 @@ You can use the website to generate badges: https://shields.io/
 **자기소개 :**
 
 - 👨🏽‍💻 저는 구인회에요 웹 풀스택 개발자죠!
-- ‍🎮 대한민국 마인크래프트 커뮤니티인 [우리들의 마인크래프트 공간](https://cafe.naver.com/minecraftgame) 기술감독을 맡고있어요!
+- ‍🎮 대한민국 마인크래프트 커뮤니티인 [우리들의 마인크래프트 공간](https://cafe.naver.com/minecraftgame) 기술감독을 맡았었어요!
 - 👨‍💻 저는 이젠 Pwning을 좋아하는 해커이기도 했었어요 특히나 리눅스요! <3
 - 🌱 지금은 Keras로 이미지 영상처리와 회귀분석에 관심이 있어요!
-- ⚡️ 웃긴 사실: 사실 했던것들이 많아서 많이는 못썻어요;
+- ⚡️ 웃긴 사실: 사실 활동들이 많아서 여기에는 많이는 못썻어요;
 - 📫 혹시 연락 주고 싶으시다면: laskdjlaskdj12@gmail.com 으로 연락 주세요
 - 💬 그리고 이건 제 이력서에요! 제 [이력서](https://github.com/laskdjlaskdj12/laskdjlaskdj12/blob/master/%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A5.pdf) 가 마음에 드셨다면 이메일로 연락주세요!
 
