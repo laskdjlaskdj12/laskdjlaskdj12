@@ -83,7 +83,6 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
     <img align="center" alt="HitCount" src="http://hits.dwyl.com/laskdjlaskdj12/laskdjlaskdj12.svg" />
   </a>
-    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=laskdjlaskdj12.laskdjlaskdj12" />
 </p>
 
 ## Support me
@@ -94,13 +93,6 @@ I created these images, feel free to use them.
   <a href="https://www.buymeacoffee.com/laskdjlaskdj12" target="_blank">
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
   </a>
-   <a href="https://donaricano.com/mypage/1481166764_fZ_4Mx" target="_blank">
-      <img
-       src="https://d1u4yishnma8v5.cloudfront.net/donarincano_gift.png"
-       alt="donaricano-btn"
-       width="18%"
-       />
-   </a>
 </p>
 
 ---
