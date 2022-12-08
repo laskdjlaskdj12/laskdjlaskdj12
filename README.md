@@ -79,11 +79,11 @@ You can use the website to generate badges: https://shields.io/
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
-<p align="center">
+<!-- <p align="center">
   <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
     <img align="center" alt="HitCount" src="http://hits.dwyl.com/laskdjlaskdj12/laskdjlaskdj12.svg" />
   </a>
-</p>
+</p> -->
 
 ## Support me
 <!-- Your support, if you have it 
