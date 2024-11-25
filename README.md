@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 저는 구인회에요 웹 풀스택 개발자죠!
 - ‍🎮 대한민국 마인크래프트 커뮤니티인 [우리들의 마인크래프트 공간](https://cafe.naver.com/minecraftgame) 기술감독을 맡았었어요!
-- 👨‍💻 저는 이젠 Pwning을 좋아하는 해커이기도 했었어요 특히나 리눅스요! <3
+- 👨‍💻 시스템, 바이너리 취약점을 찾는것을 좋아하는 해커에요! <3
 - ⚡️ 웃긴 사실: 사실 많은 활동들을 했는데 공간이 부족해서 여기에는 많이는 못썻어요;
 - 📫 혹시 연락 주고 싶으시다면: laskdjlaskdj12@gmail.com 으로 연락 주세요
 
